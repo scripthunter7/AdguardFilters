@@ -1,1 +1,2 @@
 *.txt linguist-language=AdBlock linguist-detectable
+.aglintrc linguist-language=JSON

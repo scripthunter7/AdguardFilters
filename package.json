@@ -1,5 +1,5 @@
 {
-  "name": "AdguardFilters",
+  "name": "@adguard/filters",
   "version": "1.0.0",
   "repository": "https://github.com/AdguardTeam/AdguardFilters.git",
   "author": "AdGuard Software Ltd.",
@@ -7,7 +7,7 @@
   "scripts": {
     "lint": "aglint"
   },
-  "dependencies": {
+  "devDependencies": {
     "@adguard/aglint": "^1.0.6"
   }
 }
